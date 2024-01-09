@@ -1,6 +1,7 @@
 remember when doing the SQL write this code
 
 --CREATE DATABASE Test
+
 use Test
 
 --CREATE TABLE Registration (
